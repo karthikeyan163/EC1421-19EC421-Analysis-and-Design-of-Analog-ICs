@@ -21,9 +21,15 @@ obtained.
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-15 at 21 36 26_59106d3e](https://github.com/user-attachments/assets/85c4692f-97e8-41c2-877e-173ba7190c25)
 
 
 ## OUTPUT GRAPH:
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f2a8a73e-43e5-4ffc-922b-72fc9d24a588" />
+
+## MARK ALLOCATION:
+![WhatsApp Image 2025-11-27 at 19 03 38_03804d04](https://github.com/user-attachments/assets/f5ace054-7e34-4083-b38b-169be3f14de1)
+
 
 
 ## RESULT:
